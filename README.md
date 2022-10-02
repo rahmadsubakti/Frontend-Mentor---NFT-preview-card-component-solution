@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [link](https://github.com/rahmadsubakti/Frontend-Mentor---NFT-preview-card-component-solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [link](https://frontend-mentor-nft-preview-card-component-solution-nine.vercel.app/)
 
 ## My process
 
